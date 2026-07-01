@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0285/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七佛俱胝佛母心大准提陀羅尼法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1078.xml
+    old_id: T20n1078
+hash: sha256:7cc80874d0692f4aaaab8aabef41013b7e6b6214b6b9ed144a13c25538c3ab50

@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0285/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0285/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七佛俱胝佛母心大准提陀羅尼法
+  identifiers:
+    krp: KR6j0285
+    cbeta: T20n1078
+    cbeta_old_id: T20n1078
+    authorityid: CA0002518
+    json_key: T1078
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1078.xml
+    old_id: T20n1078
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0285_000-T.yaml, hash: 'sha256:7cc80874d0692f4aaaab8aabef41013b7e6b6214b6b9ed144a13c25538c3ab50'}
+  - {seq: 1, filename: KR6j0285_001-T.yaml, hash: 'sha256:c0ccf7dcd883e5314b1651aa89535b694fb44b1b1f5c57d33fe0f249935687f6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0285_000-T.markers.yaml, hash: 'sha256:f22c71f6ebe74649f8d611d9a86702e52b67d0494367c035d8c1a24101e0cf31'}
+  - {seq: 1, role: markers, filename: assets/KR6j0285_001-T.markers.yaml, hash: 'sha256:98a4e1c004e3dcf10e899f7280eed6e205bcda119530c9827c85500b801345ad'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0285_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 911
+  label: '七佛俱胝佛母心大准提陀羅尼
+
+    法'
+  type: juan
+  level: 1
+hash: sha256:659f005e65850b765b0a18c12f1605fce55b082ba462c521a3cfb1b81d204dc5

@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR6j0285/v1
+canonical_location: https://kanripo.org/bkk/KR6j0285/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 七佛俱胝佛母心大准提陀羅尼法
+  identifiers:
+    alt_id:
+    - T20n1078
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1078.xml
+    old_id: T20n1078
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0285_000.yaml, hash: 'sha256:7cc80874d0692f4aaaab8aabef41013b7e6b6214b6b9ed144a13c25538c3ab50'}
+  - {seq: 1, filename: KR6j0285_001.yaml, hash: 'sha256:453699ac1f2ef4248191da13ae8cce1a3a04667420e8cee0b6cd60f9ca7c112f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0285_001.markers.yaml, hash: 'sha256:a38694cd5f0fbb6c0977188ae4b3abb03985a6039f8690bdd386d90af5371d12'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0285_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 911
+  label: '七佛俱胝佛母心大准提陀羅尼
+
+    法'
+  type: juan
+  level: 1
+hash: sha256:e714e72ac588e93f0db33341425b8d598f5f09579b5ba4e5e2ba75c98cd4bf40
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
