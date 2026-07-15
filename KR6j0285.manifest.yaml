@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0285/v1
 canonical_location: https://kanripo.org/bkk/KR6j0285/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 七佛俱胝佛母心大准提陀羅尼法
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0285_000.yaml, hash: 'sha256:7cc80874d0692f4aaaab8aabef41013b7e6b6214b6b9ed144a13c25538c3ab50'}
-  - {seq: 1, filename: KR6j0285_001.yaml, hash: 'sha256:c0ccf7dcd883e5314b1651aa89535b694fb44b1b1f5c57d33fe0f249935687f6'}
+  - {seq: 1, filename: KR6j0285_001.yaml, hash: 'sha256:cacb47002932f3008d2b572cbdf8bbddd07437b6a7491fd798461b8dbabe518c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0285_000.markers.yaml, hash: 'sha256:646b63eda5f7efdb76a670cb908b435aab083eeda91e82cfd282e46c3431612f'}
-  - {seq: 1, role: markers, filename: assets/KR6j0285_001.markers.yaml, hash: 'sha256:92d7181cc90eedb44d6862c1207599cd092a7e5171520544f216448c7d73c9c8'}
+  - {seq: 1, role: markers, filename: assets/KR6j0285_001.markers.yaml, hash: 'sha256:4b24b5938dda43c02fd852c2bdf0cb3514c79617b6d8f5bad104819a73378101'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,4 +42,7 @@ table_of_contents:
     法'
   type: juan
   level: 1
-hash: sha256:8cbe57c0785283dd42d04f8556cfb297a7eaaf90863d97e3b2e8662c2772d0ce
+hash: sha256:2d059382a54bbf47716b8c2c88b3be62bf282418e1a4f1f9e273424adeb1d37e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
